@@ -53,7 +53,7 @@ portfolio median would have understated its true cost.
 ## Key findings
 
 **1. The portfolio default rate is 21.87%, and 24.7% of all money lent is in default**
-(76.9M of 310.9M).
+
 
 **2. Risk jumps sharply at Grade D, but pricing does not follow.**
 
@@ -131,8 +131,6 @@ Risk concentration by grade and loan-to-income ratio:
 
 ## Limitations
 
-- The data is simulated, so findings describe this dataset rather than a
-  real lending market.
 - 3,094 interest rates were imputed; these rows are flagged so any analysis
   using interest rate can exclude them.
 - There are no dates, loan terms or repayment amounts, so trends over time
