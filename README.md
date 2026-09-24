@@ -125,7 +125,12 @@ Risk concentration by grade and loan-to-income ratio:
 
 **3. Python — deeper analysis** *(in progress)*
 
-**4. Power BI — final dashboard** *(in progress)*
+**4. Power BI — interactive dashboard**
+- Three-page report: Portfolio Overview, Risk Drivers, Borrower Profile
+- 11 DAX measures including a benchmark comparison against the portfolio average
+- Cross-page synced slicers and a drill-through page for grade-level detail
+
+![Power BI overview](images/overview.png)
 
 ---
 
