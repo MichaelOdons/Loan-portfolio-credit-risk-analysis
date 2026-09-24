@@ -129,4 +129,12 @@ Risk concentration by grade and loan-to-income ratio:
 
 ---
 
-## Repository structure
+## Limitations
+
+- The data is simulated, so findings describe this dataset rather than a
+  real lending market.
+- 3,094 interest rates were imputed; these rows are flagged so any analysis
+  using interest rate can exclude them.
+- There are no dates, loan terms or repayment amounts, so trends over time
+  and actual financial losses cannot be measured.
+
