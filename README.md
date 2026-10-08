@@ -130,7 +130,7 @@ Risk concentration by grade and loan-to-income ratio:
 - 11 DAX measures including a benchmark comparison against the portfolio average
 - Cross-page synced slicers and a drill-through page for grade-level detail
 
-![Power BI overview](images/overview.png)
+![Power BI overview](Images/Overview.png)
 
 ---
 
